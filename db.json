@@ -1,0 +1,192 @@
+{
+    "countries": [
+      {
+        "name": "Andorra",
+        "native": "Andorra",
+        "emoji": "🇦🇩",
+        "currency": "EUR",
+        "languages": [
+          {
+            "code": "ca",
+            "nameL": "Catalan"
+          }
+        ]
+      },
+      {
+        "name": "United Arab Emirates",
+        "native": "دولة الإمارات العربية المتحدة",
+        "emoji": "🇦🇪",
+        "currency": "AED",
+        "languages": [
+          {
+            "code": "ar",
+            "nameL": "Arabic"
+          }
+        ]
+      },
+      {
+        "name": "Afghanistan",
+        "native": "افغانستان",
+        "emoji": "🇦🇫",
+        "currency": "AFN",
+        "languages": [
+          {
+            "code": "ps",
+            "nameL": "Pashto"
+          },
+          {
+            "code": "uz",
+            "nameL": "Uzbek"
+          },
+          {
+            "code": "tk",
+            "name": "Turkmen"
+          }
+        ]
+      },
+      {
+        "name": "Antigua and Barbuda",
+        "native": "Antigua and Barbuda",
+        "emoji": "🇦🇬",
+        "currency": "XCD",
+        "languages": [
+          {
+            "code": "en",
+            "nameL": "English"
+          }
+        ]
+      },
+      {
+        "name": "Anguilla",
+        "native": "Anguilla",
+        "emoji": "🇦🇮",
+        "currency": "XCD",
+        "languages": [
+          {
+            "code": "en",
+            "nameL": "English"
+          }
+        ]
+      },
+      {
+        "name": "Albania",
+        "native": "Shqipëria",
+        "emoji": "🇦🇱",
+        "currency": "ALL",
+        "languages": [
+          {
+            "code": "sq",
+            "nameL": "Albanian"
+          }
+        ]
+      },
+      {
+        "name": "Armenia",
+        "native": "Հայաստան",
+        "emoji": "🇦🇲",
+        "currency": "AMD",
+        "languages": [
+          {
+            "code": "hy",
+            "name": "Armenian"
+          },
+          {
+            "code": "ru",
+            "nameL": "Russian"
+          }
+        ]
+      },
+      {
+        "name": "Angola",
+        "native": "Angola",
+        "emoji": "🇦🇴",
+        "currency": "AOA",
+        "languages": [
+          {
+            "code": "pt",
+            "nameL": "Portuguese"
+          }
+        ]
+      },
+      {
+        "name": "Antarctica",
+        "native": "Antarctica",
+        "emoji": "🇦🇶",
+        "currency": null,
+        "languages": []
+      },
+      {
+        "name": "Argentina",
+        "native": "Argentina",
+        "emoji": "🇦🇷",
+        "currency": "ARS",
+        "languages": [
+          {
+            "code": "es",
+            "nameL": "Spanish"
+          },
+          {
+            "code": "gn",
+            "nameL": "Guarani"
+          }
+        ]
+      },
+      {
+        "name": "American Samoa",
+        "native": "American Samoa",
+        "emoji": "🇦🇸",
+        "currency": "USD",
+        "languages": [
+          {
+            "code": "en",
+            "nameL": "English"
+          },
+          {
+            "code": "sm",
+            "nameL": "Samoan"
+          }
+        ]
+      },
+      {
+        "name": "Austria",
+        "native": "Österreich",
+        "emoji": "🇦🇹",
+        "currency": "EUR",
+        "languages": [
+          {
+            "code": "de",
+            "nameL": "German"
+          }
+        ]
+      },
+      {
+        "name": "Australia",
+        "native": "Australia",
+        "emoji": "🇦🇺",
+        "currency": "AUD",
+        "languages": [
+          {
+            "code": "en",
+            "nameL": "English"
+          }
+        ]
+      },
+      {
+        "name": "Aruba",
+        "native": "Aruba",
+        "emoji": "🇦🇼",
+        "currency": "AWG",
+        "languages": [
+          {
+            "code": "nl",
+            "nameL": "Dutch"
+          },
+          {
+            "code": "pa",
+            "nameL": "Panjabi / Punjabi"
+          }
+        ]
+      }
+     
+    ]
+  }
